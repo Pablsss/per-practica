@@ -1,0 +1,73 @@
+[
+  {
+    "id": "01",
+    "title": "Fundamentos de navegación",
+    "year": 2026,
+    "source": "Preguntas originales",
+    "pdf": "",
+    "questions": [
+      {
+        "number": 1,
+        "text": "¿Qué parte del barco queda delante al mirar en el sentido habitual de avance?",
+        "options": [
+          "Proa",
+          "Popa",
+          "Babor",
+          "Estribor"
+        ],
+        "answer": 0,
+        "unit": "Navegación",
+        "page": 0,
+        "images": [],
+        "explanation": "La proa es el extremo delantero del barco."
+      },
+      {
+        "number": 2,
+        "text": "Mirando hacia proa, ¿cómo se llama el costado izquierdo?",
+        "options": [
+          "Estribor",
+          "Babor",
+          "Popa",
+          "Quilla"
+        ],
+        "answer": 1,
+        "unit": "Navegación",
+        "page": 0,
+        "images": [],
+        "explanation": "Babor queda a la izquierda cuando se mira hacia proa."
+      },
+      {
+        "number": 3,
+        "text": "Un barco recorre seis millas náuticas en dos horas. ¿Cuál es su velocidad media?",
+        "options": [
+          "Doce nudos",
+          "Seis nudos",
+          "Tres nudos",
+          "Dos nudos"
+        ],
+        "answer": 2,
+        "unit": "Navegación",
+        "page": 0,
+        "images": [],
+        "explanation": "Un nudo equivale a una milla náutica por hora. Seis dividido entre dos da tres."
+      },
+      {
+        "number": 4,
+        "text": "¿Qué instrumento indica la profundidad bajo la embarcación?",
+        "options": [
+          "Anemómetro",
+          "Compás",
+          "Barómetro",
+          "Sonda"
+        ],
+        "answer": 3,
+        "unit": "Navegación",
+        "page": 0,
+        "images": [],
+        "explanation": "La sonda mide la profundidad respecto a su nivel de referencia."
+      }
+    ],
+    "keyPages": [],
+    "complete": false
+  }
+]
